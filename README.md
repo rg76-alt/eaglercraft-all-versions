@@ -1,4 +1,4 @@
-<h1>eaglercraft all versions i could find</h1>
+<h1>eaglercraft all versions i could get on here</h1>
 
 <h2>you may download the htmls for the version you want. other versions require http server</h2>
 
