@@ -1,2 +1,11 @@
-# eaglercraft-all-versions
-all eaglercraft versions I could find
+<h1>eaglercraft all versions i could find</h1>
+
+<h2>you may download the htmls for the version you want</h2>
+
+
+> [!IMPORTANT]
+> **I am not affiliated, own, or work at Eagtek, Eaglercraft, Mojang, Microsoft, or Minecraft. I am hosting the files but I did not make, work on, or am affiliated with eaglercraft.**
+
+> [!CAUTION]
+> You may get DMCA by minecraft which is why i added the message above. **Remove at your own risk**.
+  
